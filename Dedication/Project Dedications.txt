@@ -23,7 +23,7 @@ WHAT DOES THIS WEB APPLICATION DO NOW ?
 
 This web application allows the users to communicate with live encrypted voice and video and record encrypted live video to this web application that is hosted on a private web server
 from any mobile electronic device including from any smart glasses that have hardware support for high speed blue-tooth wireless network connection and wireless AP network connection whereas
-hand-held radio devices are not encrypted.
+hand-held radio devices are not encrypted or the encryption is easily cracked.
 
 Any motorcyclist, driver, traveler can record live video of everything in the area and show their current G.P.S. coordinates location with altitude down to 10 feet in radius where every 2
 seconds of movement the G.P.S. coorinates with altitude are saved to a log file of the user.
