@@ -1,4 +1,11 @@
-For my real biological mother and my real biological father. My papa. The King and the Baron of the East Side. They took me away from my real biological father when I was a baby in Kern County. I started making this web application for him in ~2000 so that we could communicate over the Internet and so that he could always prove where he was located at to us by instant message. I started writing this web application project in ~2000. I did a complete re-write from 2021 to 2024.
+For my real biological mother and my real biological father. My papa. The King and the Baron of the East Side.
+They took me away from my real biological father when I was a baby in Kern County.
+
+I started making this web application for him in ~2000 so that we could communicate over the Internet and so that he could always prove where he was located at to us by instant message.
+
+I started writing this web application project in ~2000 when I was ~13.
+
+I did a complete re-write of this web application programming code from 2021 to 2024.
 
 1988, 1990, 1992, 1994.
 
