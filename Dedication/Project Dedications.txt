@@ -16,8 +16,7 @@ hours per day while I wrote the programming code for this web application. Many 
 whose family is classified as being in a "Mexican Drug Cartel".
 
 I did a complete re-write of this Web Application Software Project programming code from 2021 to 2024.
-The bare-bone system is now approximately ~250,000 lines of pure Pre-Hyper-Text-Post-Processor Programming Code and should work ultra-fast and flawlessly on the official P.H.P. Versions: 7, 8, 9 and 10 with
-support of up to ~500 concurrent and unique network connections to it at any given time.
+This bare-bone system is now approximately ~250,000 lines of pure Pre-Hyper-Text-Post-Processor Programming Code and should work ultra-fast and flawlessly on the official P.H.P. Versions: 7, 8, 9 and 10 with either of MySQL - Improved Driver, Microsoft SQL Driver, Maria Database Driver and P.D.O. / P.H.P. Data Objects Driver and with support of up to ~500 concurrent and unique network connections to it at any given time.
 
 WHAT DOES THIS WEB APPLICATION DO NOW ?
 
