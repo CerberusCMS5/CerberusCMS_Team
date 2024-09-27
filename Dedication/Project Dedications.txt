@@ -20,7 +20,8 @@ This web application allows the users to communicate with live encrypted voice a
 from any mobile device including from any smart glasses that have hardware support for high speed blue-tooth wireless network connection and wireless AP network connection.
 Any motorcyclist, driver, traveler can record everything in the area and show their current G.P.S. coordinates location with altitude down to 10 feet in radius. The G.P.S. location of the
 recorded media is also saved to the web application directly from the G.P.S. chip of the device itself. This gives a superior advantage over enemy gangs and rivals because
-now all enemies can be recorded live to show exactly where they are at, what they look like and what clothes they are wearing with Atomic Time and G.P.S. coordinates.
+now all enemies can be recorded live to show exactly where they are at, what they look like and what clothes they are wearing with Atomic Time and G.P.S. coordinates where
+then all allies can see what they look like to send enforcement either then or in the future.
 
 1988, 1990, 1992, 1994.
 
