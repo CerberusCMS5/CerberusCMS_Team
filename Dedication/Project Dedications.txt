@@ -24,8 +24,10 @@ This web application allows the users to communicate with live encrypted voice a
 from any mobile electronic device including from any smart glasses that have hardware support for high speed blue-tooth wireless network connection and wireless AP network connection whereas
 hand-held radio devices are not encrypted.
 
-Any motorcyclist, driver, traveler can record live video of everything in the area and show their current G.P.S. coordinates location with altitude down to 10 feet in radius every 2
-seconds of movement. The G.P.S. location of the recorded media is also saved to this web application directly from the G.P.S. chip of the electronic device itself.
+Any motorcyclist, driver, traveler can record live video of everything in the area and show their current G.P.S. coordinates location with altitude down to 10 feet in radius where every 2
+seconds of movement the G.P.S. coorinates with altitude are saved to a log file of the user.
+
+The G.P.S. location of the recorded media is also saved to this web application directly from the G.P.S. chip of the electronic device itself.
 
 This gives a superior advantage over enemy gangs and rivals because now all enemies can be recorded live to show exactly where they are at, what they look like and what clothes they are wearing with Atomic Precision Time and G.P.S. coordinates where then all allies can see what they look like to send enforcement either then or in the future.
 
