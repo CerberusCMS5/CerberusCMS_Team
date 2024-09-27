@@ -14,7 +14,8 @@ I started writing this web application project in ~2000 when I was ~13 after I m
 hours per day while I wrote the programming code for this web application. Many memories of orgies of me with her and her female friends.
 
 I did a complete re-write of this Web Application Software Project programming code from 2021 to 2024.
-The bare-bone system is now approximately ~250,000 lines of pure Pre-Hyper-Text-Post-Processor Programming Code and should work flawlessly on the official P.H.P. Versions: 7, 8 and 9.
+The bare-bone system is now approximately ~250,000 lines of pure Pre-Hyper-Text-Post-Processor Programming Code and should work ultra-fast and flawlessly on the official P.H.P. Versions: 7, 8 and 9 with
+support of up to ~500 concurrent and unique network connections to it at any given time.
 
 WHAT DOES THIS WEB APPLICATION DO NOW ?
 
@@ -28,8 +29,8 @@ seconds of movement. The G.P.S. location of the recorded media is also saved to 
 This gives a superior advantage over enemy gangs and rivals because now all enemies can be recorded live to show exactly where they are at, what they look like and what clothes they are wearing with Atomic Precision Time and G.P.S. coordinates where then all allies can see what they look like to send enforcement either then or in the future.
 
 This web application is now written to combat waves of enemy groups where all of the live fire, knife fights and fights can be recorded live from the smart glasses.
-The smart glasses also act as an eye protectant from pepper-spray and mace. One can also equip any vehicle with video cameras that have wireless network hardware to stream live video to this web application
-from the dashboard of the vehicle, the rear of the vehicle and the sides of the vehicle.
+The smart glasses also act as an eye protectant from pepper-spray and mace. One can also equip any vehicle with video cameras that have wireless network hardware 
+to stream live video to this web application from the dashboard of the vehicle, the rear of the vehicle and the sides of the vehicle.
 All license plates, make and model, color and other information of every vehicle in the area can be recorded.
 
 Reverse-Image searches of enemy faces can be made where then their identifying information can be discovered such as name, address and other information.
