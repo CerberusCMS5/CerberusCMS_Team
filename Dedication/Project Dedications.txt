@@ -14,7 +14,10 @@ I started writing this web application project in ~2000 when I was ~13.
 I did a complete re-write of this Web Application Software Project programming code from 2021 to 2024. The bare-bone system is now approximately ~250,000 lines of pure Pre-Hyper-Text-Post-Processor Programming
 Code.
 
-What does this web application do now ? This web application allows the users to communicate with live encrypted voice and video and record encrypted live video to this web application from any mobile device including from any smart glasses that have hardware support for high speed blue-tooth wireless network connection and wireless AP network connection.
+What does this web application do now ?
+
+This web application allows the users to communicate with live encrypted voice and video and record encrypted live video to this web application 
+from any mobile device including from any smart glasses that have hardware support for high speed blue-tooth wireless network connection and wireless AP network connection.
 Any motorcyclist, driver, traveler can record everything in the area and show their current G.P.S. location with altitude down to 10 feet radius.
 
 1988, 1990, 1992, 1994.
