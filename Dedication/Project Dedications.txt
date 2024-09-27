@@ -12,13 +12,15 @@ in the year ~2000 - ~2001. We also extended this Web Application Software Projec
 Vagos Motorcycle Club and Hells Angels Motorcycle Club alliances shifted in the following decade.
 
 I started writing this web application project in ~2000 when I was ~13 after I met my chola. We got the ideas for this web application while she often milked my prostate for several
-hours per day while I wrote the programming code for this web application. Many memories of orgies of me with her and her female friends. Before that I was unfortunately molsted by a woman
-whose family is classified as being in a "Mexican Drug Cartel".
+hours per day while I wrote the programming code for this web application. Many memories of orgies of me with her and her female friends. This software project was
+officially registered on FreshMeat.org around ~2001 ?
+Before that I was unfortunately molsted by a woman whose family is classified as being in a "Mexican Drug Cartel".
 
 I did a complete re-write of this Web Application Software Project programming code from 2021 to 2024.
 This bare-bone system is now approximately ~250,000 lines of pure Pre-Hyper-Text-Post-Processor Programming Code and should work ultra-fast and flawlessly on 
 the official P.H.P. Versions: 7, 8, 9 and 10 with either of MySQL - Improved Driver, Microsoft SQL Driver, Maria Database Driver and 
 P.D.O. / P.H.P. Data Objects Driver and with support of up to ~500 concurrent and unique network connections to it at any given time.
+All of the programming code is 100% original and 100% custom written.
 
 WHAT DOES THIS WEB APPLICATION DO NOW ?
 
