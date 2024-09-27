@@ -3,6 +3,8 @@ Kern County took me from my biological father when I was 2 years old after a cri
 
 I started making this web application for him in ~2000 so that we could communicate over the Internet, so he could sell product and so that he could always prove where he was located at to us by instant message.
 
+I wrote this web application for the Nazilowrider car club and the Vagos Motorcycle Club.
+
 I started writing this web application project in ~2000 when I was ~13.
 
 I did a complete re-write of this web application programming code from 2021 to 2024.
