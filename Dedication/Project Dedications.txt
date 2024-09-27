@@ -16,20 +16,22 @@ hours per day while I wrote the programming code for this web application. Many 
 whose family is classified as being in a "Mexican Drug Cartel".
 
 I did a complete re-write of this Web Application Software Project programming code from 2021 to 2024.
-This bare-bone system is now approximately ~250,000 lines of pure Pre-Hyper-Text-Post-Processor Programming Code and should work ultra-fast and flawlessly on the official P.H.P. Versions: 7, 8, 9 and 10 with either of MySQL - Improved Driver, Microsoft SQL Driver, Maria Database Driver and P.D.O. / P.H.P. Data Objects Driver and with support of up to ~500 concurrent and unique network connections to it at any given time.
+This bare-bone system is now approximately ~250,000 lines of pure Pre-Hyper-Text-Post-Processor Programming Code and should work ultra-fast and flawlessly on 
+the official P.H.P. Versions: 7, 8, 9 and 10 with either of MySQL - Improved Driver, Microsoft SQL Driver, Maria Database Driver and 
+P.D.O. / P.H.P. Data Objects Driver and with support of up to ~500 concurrent and unique network connections to it at any given time.
 
 WHAT DOES THIS WEB APPLICATION DO NOW ?
 
 This web application allows the users to communicate with live encrypted voice and video and record encrypted live video to this web application that is hosted on a private web server
-from any mobile electronic device including from any smart glasses that have hardware support for high speed blue-tooth wireless network connection and wireless AP network connection whereas
-hand-held radio devices are not encrypted or the encryption is easily cracked.
+from any mobile electronic device that can access a web browser including from any smart glasses that have hardware support for high speed blue-tooth wireless network connection tethering to
+that mobile electronic device and wireless AP network connection whereas hand-held radio devices are not encrypted or the encryption is easily cracked.
 
-Any motorcyclist, driver, traveler can record live video of everything in the area and show their current G.P.S. coordinates location with altitude down to 10 feet in radius where every 2
-seconds of movement the G.P.S. coorinates with altitude are saved to a log file of the user.
-
+Any motorcyclist, driver, traveler can record live video of everything in the area and show their current G.P.S. coordinates location with altitude down to 10 feet in radius 
+where then every 2 seconds of movement of the device the G.P.S. coorinates of the device with altitude are saved to a searchable log file of the user.
 The G.P.S. location of the recorded media is also saved to this web application directly from the G.P.S. chip of the electronic device itself.
 
-This gives a superior advantage over enemy gangs and rivals because now all enemies can be recorded live to show exactly where they are at, what they look like and what clothes they are wearing with Atomic Precision Time and G.P.S. coordinates where then all allies can see what they look like to send enforcement either then or in the future.
+This gives a superior advantage over enemy gangs and rivals because now all enemies can be recorded live to show exactly where they are at, what they look like 
+and what clothes they are wearing with Atomic Precision Time and G.P.S. coordinates where then all allies can see what they look like to send enforcement either then or in the future.
 
 This web application is now written to combat waves of enemy groups where all of the live fire, knife fights and fights can be recorded live from the smart glasses.
 The smart glasses also act as an eye protectant from pepper-spray and mace. One can also equip any vehicle with video cameras that have wireless network hardware 
