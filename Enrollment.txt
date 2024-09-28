@@ -1,0 +1,39 @@
+------------------------------------------------------------------
+Project Enrollment Requirements
+------------------------------------------------------------------
+We do not recruit anyone from the Internet long distance for development of this official FOSS project CerberusCMS. This is a locally controlled project in Southern California.
+We only recruit developers and programmers from Southern California as of 2023. If your name / alias and identifiable face is not listed in this document you are not
+an official developer or programmer for this official web application FOSS project: CerberusCMS. All other versions of this official software project: CerberusCMS are fake and are not made by us.
+
+Official GITHub Commit Locations Are In:
+----------------------------------
+Kern County, California
+----------------------------------
+* Bakersfield, California
+* Oildale, California
+
+----------------------------------
+San Luis Obispo County, California
+----------------------------------
+* Pismo, California
+
+----------------------------------
+Los Angeles County, California
+----------------------------------
+* Los Angeles, California
+* Beverly Hills Flats, California
+* Malibu, California
+* Santa Monica, California
+* Venice, California
+
+----------------------------------
+San Diego County, California
+----------------------------------
+* San Diego, California
+
+------------------------------------------------------------------
+Dates of Enrollment
+------------------------------------------------------------------
+* US :: G.C. Johnson                              January of 2001
+* UK :: Payne                                      August of 2002
+* US :: Myssfit                                     March of 2024
