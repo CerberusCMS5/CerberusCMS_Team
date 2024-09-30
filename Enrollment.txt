@@ -7,7 +7,9 @@ an official developer or programmer for this official Free-And-Open-Source-Softw
 All other versions of this official software project: CerberusCMS are fake and are not made by us. This web application software project was extended to certain groups though.
 
 Within the next 10 years of development after the year 2023 this web application software project should be ~500,000 to ~750,000 lines of Pure Pre-Hyper-Text-Post-Processor
-programming code and will be the most secure, the most encrypted and the fastest digital communications platform world-wide. Voice, Video, Text, SMS Text, MMS Text, Secure Text communications directly from any web browser of any electronic device including from a 144P mobile cell phone.. with no installation of any software needed.
+programming code and will be the most secure, the most encrypted and the fastest digital communications platform world-wide.
+Voice, Video, Text, SMS Text, MMS Text, Secure Text communications directly from any web browser of any electronic device including from a 144P mobile cell phone.. 
+with no installation of any software needed.
 
 Official GITHub Commit Locations Are In:
 ----------------------------------
