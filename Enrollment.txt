@@ -3,7 +3,11 @@ Project Enrollment Requirements
 ------------------------------------------------------------------
 We do not recruit anyone from the Internet long distance for development of this official FOSS project CerberusCMS. This is a locally controlled project in Southern California.
 We only recruit developers and programmers from Southern California as of 2023. If your name / alias and identifiable face is not listed in this document you are not
-an official developer or programmer for this official web application FOSS project: CerberusCMS. All other versions of this official software project: CerberusCMS are fake and are not made by us.
+an official developer or programmer for this official Free-And-Open-Source-Software Web Application Project, With Officially Registered Unix Name: CerberusCMS.
+All other versions of this official software project: CerberusCMS are fake and are not made by us. This web application software project was extended to certain groups though.
+
+Within the next 10 years of development from the year 2023 this web application software project should be ~500,000 to ~750,000 lines of Pure Pre-Hyper-Text-Post-Processor
+programming code and will be the most secure, the most encrypted and the fastest digital communications platform world-wide.
 
 Official GITHub Commit Locations Are In:
 ----------------------------------
