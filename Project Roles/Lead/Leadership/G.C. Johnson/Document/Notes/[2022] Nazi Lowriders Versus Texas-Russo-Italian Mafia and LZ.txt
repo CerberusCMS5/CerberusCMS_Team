@@ -4,16 +4,6 @@
 * https://www.youtube.com/watch?v=3t9gjYgFuW0&list=PLiV9UzM0qEhaKH4Pk8lq3nqGkt9FIGg35
 
 -----------------------------------------------------------------------------------
-- TRUCES
------------------------------------------------------------------------------------
-* Truce With: Los Zetas Mexican Cartel In Southern California
-* Truce With: Tijuana Mexican Cartel In Southern California and In Tijuana, Baja California, Mexico
-* Truce With: Crips In Bakersfield, Southern California
-* Truce With: Culver Crips In Los Angeles, Southern California
-* Truce With: Fresno Bulldogs In Fresno, Central California
-* Truce With: Califa Norte In Northern California, Central California and Southern California
-
------------------------------------------------------------------------------------
 - ALLIANCES
 -----------------------------------------------------------------------------------
 
@@ -61,6 +51,16 @@
 * Rivals With: All East Coast Cartels
 * Rivals With: Russians
 * Rivals With: Albanians
+
+-----------------------------------------------------------------------------------
+- TRUCES
+-----------------------------------------------------------------------------------
+* Truce With: Los Zetas Mexican Cartel In Southern California
+* Truce With: Tijuana Mexican Cartel In Southern California and In Tijuana, Baja California, Mexico
+* Truce With: Crips In Bakersfield, Southern California
+* Truce With: Culver Crips In Los Angeles, Southern California
+* Truce With: Fresno Bulldogs In Fresno, Central California
+* Truce With: Califa Norte In Northern California, Central California and Southern California
 
 -----------------------------------------------------------------------------------
 - ENEMIES
