@@ -65,13 +65,14 @@
 * Rivals With: Bloods
 * Rivals With: Haitians
 * Rivals With: All East Coast Cartels
-* Rivals With: Russians
-* Rivals With: Albanians
+* Rivals With: All Russians
+* Rivals With: All Albanians
 
 -----------------------------------------------------------------------------------
 - ENEMIES
 -----------------------------------------------------------------------------------
 * Enemies With: All Bloods Gangs Worldwide, Especially All East Coast Bloods Gangs
 * Enemies With: All Allies of All Bloods Gangs Worldwide
+* Enemies With: All Cartels In East Coast, United States and All Mafias In East Coast, United States
 * Enemies With: All Russians Including Russian Mafias
 * Enemies With: All Albanians Including Albanian Mafias
