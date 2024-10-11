@@ -45,8 +45,9 @@
 -- American Indian Nations and American Indian Tribes
 -----------------------------------------------------------
 * Alliance With: Official Tejon American Indian Tribe of Southern California
-* Alliance With: Official Apache American Indian Nation
-* Alliance With: Official Navajo American Indian Nation
+* Alliance With: Official Apache American Indian Nation of New Mexico
+* Alliance With: Official Apache American Indian Nation of California
+* Alliance With: Official Navajo American Indian Nation of New Mexico
 
 -----------------------------------------------------------------------------------
 - TRUCES
@@ -78,4 +79,5 @@
 * Enemies With: All Russians Including All Russian Mafias and All Russian Gangs
 * Enemies With: All Albanians Including All Albanian Mafias and All Albanian Gangs
 * Enemies With: All Haitians Including All Haitian Gangs
+* Enemies With: All Caribs Including All Carib Gangs
 * Enemies With: All Muslims
