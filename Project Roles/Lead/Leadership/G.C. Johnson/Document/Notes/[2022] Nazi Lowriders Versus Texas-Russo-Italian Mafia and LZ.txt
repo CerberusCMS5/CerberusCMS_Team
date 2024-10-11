@@ -78,3 +78,4 @@
 * Enemies With: All Russians Including All Russian Mafias and All Russian Gangs
 * Enemies With: All Albanians Including All Albanian Mafias and All Albanian Gangs
 * Enemies With: All Haitians Including All Haitian Gangs
+* Enemies With: All Muslims
