@@ -19,7 +19,8 @@
 -----------------------------------------------------------
 * Alliance With: Select SUR of Kern County, Southern California
 * Alliance With: Mafia of Kung Lao, Southern California
-* Alliance With: Cowboy Drug Cartel of Southern California
+* Alliance With: Cowboy Cartel of Southern California
+* Alliance With: Cartel of the 80s of Southern California
 
 -----------------------------------------------------------
 -- Syndicates :: Car Clubs
