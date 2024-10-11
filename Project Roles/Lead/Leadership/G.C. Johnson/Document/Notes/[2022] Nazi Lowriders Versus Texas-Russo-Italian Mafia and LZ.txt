@@ -47,16 +47,6 @@
 * Alliance With: Official Navajo American Indian Nation
 
 -----------------------------------------------------------------------------------
-- RIVALS
------------------------------------------------------------------------------------
-* Rivals With: DEA
-* Rivals With: Bloods
-* Rivals With: Haitians
-* Rivals With: All East Coast Cartels
-* Rivals With: Russians
-* Rivals With: Albanians
-
------------------------------------------------------------------------------------
 - TRUCES
 -----------------------------------------------------------------------------------
 * Truce With: Los Zetas Mexican Cartel In Southern California
@@ -65,6 +55,16 @@
 * Truce With: Culver Crips In Los Angeles, Southern California
 * Truce With: Fresno Bulldogs In Fresno, Central California
 * Truce With: Califa Norte In Northern California, Central California and Southern California
+
+-----------------------------------------------------------------------------------
+- RIVALS
+-----------------------------------------------------------------------------------
+* Rivals With: DEA
+* Rivals With: Bloods
+* Rivals With: Haitians
+* Rivals With: All East Coast Cartels
+* Rivals With: Russians
+* Rivals With: Albanians
 
 -----------------------------------------------------------------------------------
 - ENEMIES
