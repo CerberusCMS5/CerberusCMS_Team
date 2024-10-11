@@ -17,14 +17,18 @@
 -----------------------------------------------------------
 -- Syndicates
 -----------------------------------------------------------
-* Alliance With: Select SUR of Kern County, California
+* Alliance With: Select SUR of Kern County, Southern California
 * Alliance With: Mafia of Kung Lao, Southern California
 * Alliance With: Cowboy Drug Cartel of Southern California
 
 -----------------------------------------------------------
--- Criminal Syndicates :: Car Clubs
+-- Syndicates :: Car Clubs
 -----------------------------------------------------------
 * Alliance With: Nazi Lowriders of Southern California
+
+-----------------------------------------------------------
+-- Organizations
+-----------------------------------------------------------
 * Alliance With: Select Oklahoma Dust Bowl Migrant Community of Kern County, Southern California
 
 -----------------------------------------------------------
