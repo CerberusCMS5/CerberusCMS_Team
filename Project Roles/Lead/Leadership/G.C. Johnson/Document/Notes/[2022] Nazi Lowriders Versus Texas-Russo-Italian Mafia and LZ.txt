@@ -1,10 +1,10 @@
 -----------------------------------------------------------------------------------
-DOCUMENTARIES
+- DOCUMENTARIES
 -----------------------------------------------------------------------------------
 * https://www.youtube.com/watch?v=3t9gjYgFuW0&list=PLiV9UzM0qEhaKH4Pk8lq3nqGkt9FIGg35
 
 -----------------------------------------------------------------------------------
-TRUCES
+- TRUCES
 -----------------------------------------------------------------------------------
 * Truce With: Los Zetas Mexican Cartel In Southern California
 * Truce With: Tijuana Mexican Cartel In Southern California and In Tijuana, Baja California, Mexico
@@ -14,25 +14,46 @@ TRUCES
 * Truce With: Califa Norte In Northern California, Central California and Southern California
 
 -----------------------------------------------------------------------------------
-ALLIANCES
+- ALLIANCES
 -----------------------------------------------------------------------------------
+
+-----------------------------------------------------------
+-- Motorcycle Clubs
+-----------------------------------------------------------
 * Alliance With: Vagos Motorcycle Club Geezers of Southern California
-* Alliance With: Select SUR of Kern County, California
 * Alliance With: The Original Members of The Hells Angels Motorcycle Club of Long Beach, Southern California
 * Alliance With: The Original Members of The Hells Angels Motorcycle Club of Bakersfield, Southern California
+
+-----------------------------------------------------------
+-- Syndicates
+-----------------------------------------------------------
+* Alliance With: Select SUR of Kern County, California
 * Alliance With: Mafia of Kung Lao, Southern California
 * Alliance With: Cowboy Drug Cartel of Southern California
-* Alliance With: R.C.C. of Southern California
+
+-----------------------------------------------------------
+-- Criminal Syndicates :: Car Clubs
+-----------------------------------------------------------
 * Alliance With: Nazi Lowriders of Southern California
 * Alliance With: Select Oklahoma Dust Bowl Migrant Community of Kern County, Southern California
-* Alliance With: Official Tej American Indian Tribe of Southern California
-* Alliance With: Official Apache American Indian Nation
+
+-----------------------------------------------------------
+-- Saints of Intercession
+-----------------------------------------------------------
+* Alliance With: R.C.C. of Southern California
 * Alliance With: Santisima Muerte, Jesus Malverde
 * Alliance With: Mother Teresa
 * Alliance With: Jesús María Echavarría Aguirre
 
+-----------------------------------------------------------
+-- American Indian
+-----------------------------------------------------------
+* Alliance With: Official Tejon American Indian Tribe of Southern California
+* Alliance With: Official Apache American Indian Nation
+* Alliance With: Official Navajo American Indian Nation
+
 -----------------------------------------------------------------------------------
-RIVALS
+- RIVALS
 -----------------------------------------------------------------------------------
 * Rivals With: DEA
 * Rivals With: Bloods
@@ -42,7 +63,7 @@ RIVALS
 * Rivals With: Albanians
 
 -----------------------------------------------------------------------------------
-ENEMIES
+- ENEMIES
 -----------------------------------------------------------------------------------
 * Enemies With: All Bloods, East Coast Bloods
 * Enemies With: East Coast Russians
