@@ -70,5 +70,6 @@
 - ENEMIES
 -----------------------------------------------------------------------------------
 * Enemies With: All Bloods, East Coast Bloods
+* Enemies With: All Allies of Bloods Gangs
 * Enemies With: East Coast Russians
 * Enemies With: East Coast Albanian Mafia
