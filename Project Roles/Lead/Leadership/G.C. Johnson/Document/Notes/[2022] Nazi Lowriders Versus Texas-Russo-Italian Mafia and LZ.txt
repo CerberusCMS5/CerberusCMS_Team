@@ -74,5 +74,6 @@
 * Enemies With: All Bloods Gangs Worldwide, Especially All East Coast Bloods Gangs
 * Enemies With: All Allies of All Bloods Gangs Worldwide
 * Enemies With: All Cartels In East Coast, United States and All Mafias In East Coast, United States
-* Enemies With: All Russians Including Russian Mafias
-* Enemies With: All Albanians Including Albanian Mafias
+* Enemies With: All Russians Including All Russian Mafias
+* Enemies With: All Albanians Including All Albanian Mafias
+* Enemies With: All Haitians Including All Hatian Gangs
