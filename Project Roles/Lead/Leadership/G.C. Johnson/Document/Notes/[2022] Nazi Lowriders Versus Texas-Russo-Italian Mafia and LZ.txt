@@ -16,10 +16,6 @@ TRUCES
 -----------------------------------------------------------------------------------
 ALLIANCES
 -----------------------------------------------------------------------------------
-* Alliance With: Sinaloa Mexican Cartel of Los Mochis, Sinaloa, Mexico
-* Alliance With: Sinaloa Mexican Cartel of Culiacán, Sinaloa, Mexico
-* Alliance With: Sinaloa Mexican Cartel of Tijuana, Baja California, Mexico
-* Alliance With: Sinaloa Mexican Cartel of Southern California
 * Alliance With: Vagos Motorcycle Club Geezers of Southern California
 * Alliance With: The Original Members of The Hells Angels Motorcycle Club of Long Beach, Southern California
 * Alliance With: The Original Members of The Hells Angels Motorcycle Club of Bakersfield, Southern California
