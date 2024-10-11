@@ -37,9 +37,9 @@
 -----------------------------------------------------------
 * Alliance With: Roman Catholic Church of Bakersfield, Southern California
 * Alliance With: Lutheran Church of Bakersfield, Southern California
-* Alliance With: Santisima Muerte, Jesus Malverde
-* Alliance With: Mother Teresa
-* Alliance With: Jesús María Echavarría Aguirre
+* Alliance With: Santisima Muerte, Saint Jesus Malverde
+* Alliance With: Saint Mother Teresa
+* Alliance With: Saint Jesús María Echavarría Aguirre
 
 -----------------------------------------------------------
 -- American Indian Nations and American Indian Tribes
