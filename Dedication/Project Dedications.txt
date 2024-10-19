@@ -19,7 +19,7 @@ hours per day while I learned and wrote the programming code for this web applic
 
 I did a complete re-write of this Web Application Software Project programming code from the years of 2021 to 2024.
 
-This bare-bone system is now approximately ~250,000 lines of pure Pre-Hyper-Text-Post-Processor Programming Code and should work ultra-fast and flawlessly on the official P.H.P. Versions: 7, 8, 9, 10 and beyond with either of the MySQL - Improved Driver, Microsoft S.Q.L. Driver, Maria Database Driver, MiniS.Q.L. Driver and P.D.O. / P.H.P. Data Objects Driver and with support for up to ~500 concurrent and unique network connections to it at any given time whether on shared hosting, dedicated hosting or a server rack at home.
+This bare-bone system is now approximately ~250,000 lines of pure Pre-Hyper-Text-Post-Processor Programming Code and should work ultra-fast and flawlessly on the official Pre-Hyper-Text-Post-Processor Parser Versions: 7, 8, 9, 10 and beyond with either of the MySQL - Improved Driver, Microsoft S.Q.L. Driver, Maria Database Driver, MiniS.Q.L. Driver and P.D.O. / P.H.P. Data Objects Driver and with support for up to ~500 concurrent and unique network connections to it at any given time whether on shared hosting, dedicated hosting or a server rack at home.
 
 All of the programming code is 100% original and 100% custom written.
 
